@@ -1,0 +1,4 @@
+C:\source\prototypes\CI Test Solutions\CI Test Lib\bin\Debug\CI Test Lib.dll
+C:\source\prototypes\CI Test Solutions\CI Test Lib\bin\Debug\CI Test Lib.pdb
+C:\source\prototypes\CI Test Solutions\CI Test Lib\obj\Debug\CI Test Lib.dll
+C:\source\prototypes\CI Test Solutions\CI Test Lib\obj\Debug\CI Test Lib.pdb

@@ -1,0 +1,57 @@
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\CI Test Web Application.dll.config
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\CI Test Web Application.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\CI Test Web Application.pdb
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Antlr3.Runtime.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\EntityFramework.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\EntityFramework.SqlServer.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.AspNet.Identity.Core.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.Owin.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.Owin.Security.Cookies.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.Owin.Security.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.Owin.Security.Facebook.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.Owin.Security.Google.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.Owin.Security.OAuth.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.Owin.Security.Twitter.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.Web.Infrastructure.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Newtonsoft.Json.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Owin.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\System.Web.Helpers.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\System.Web.Mvc.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\System.Web.Optimization.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\System.Web.Razor.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\System.Web.WebPages.Deployment.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\System.Web.WebPages.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\System.Web.WebPages.Razor.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\WebGrease.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\System.Web.Helpers.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\System.Web.Mvc.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\System.Web.Optimization.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\System.Web.Razor.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\System.Web.WebPages.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\System.Web.WebPages.Deployment.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\System.Web.WebPages.Razor.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Newtonsoft.Json.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Antlr3.Runtime.pdb
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\EntityFramework.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\EntityFramework.SqlServer.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.AspNet.Identity.Core.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.Owin.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.Owin.Security.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.Owin.Security.Facebook.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.Owin.Security.Cookies.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.Owin.Security.OAuth.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.Owin.Security.Google.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.Owin.Security.Twitter.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\obj\Debug\CI Test Web Application.csprojResolveAssemblyReference.cache
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\obj\Debug\CI Test Web Application.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\obj\Debug\CI Test Web Application.pdb
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\CI Test Lib.dll
+C:\source\prototypes\CI Test Solutions\CI Test Web Application\bin\CI Test Lib.pdb
